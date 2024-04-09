@@ -11,7 +11,7 @@
   "editor.wordWrap": "wordWrapColumn",
   "files.autoSave": "onFocusChange",
   "javascript.autoClosingTags": true,
-  "typescript.inlayHints.parameterNames.enabled": "none",
+  "javascript.inlayHints.parameterNames.enabled": "none",
   "javascript.inlayHints.variableTypes.enabled": true,
   "javascript.updateImportsOnFileMove.enabled": "always"
 }
