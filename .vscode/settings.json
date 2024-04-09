@@ -12,6 +12,6 @@
   "files.autoSave": "onFocusChange",
   "javascript.autoClosingTags": true,
   "javascript.inlayHints.parameterNames.enabled": "none",
-  "javascript.inlayHints.variableTypes.enabled": true,
+  "javascript.inlayHints.variableTypes.enabled": false,
   "javascript.updateImportsOnFileMove.enabled": "always"
 }
